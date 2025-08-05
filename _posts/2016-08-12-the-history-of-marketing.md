@@ -31,4 +31,4 @@ The following sections discuss both approaches to the history of marketing, clos
 
 [source](https://en.wikipedia.org/wiki/History_of_marketing): Wikipedia
 
-`image wc:Sunflower_sky_backdrop.jpg`
+`image src=wc:Sunflower_sky_backdrop.jpg`
