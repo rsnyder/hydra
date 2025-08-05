@@ -30,3 +30,5 @@ Practitioners of the history of marketing thought note that both practitioners a
 The following sections discuss both approaches to the history of marketing, closing with a debate about the standard chronology of marketing, a widely known hypothesis about the history of marketing, but one that historians in the marketing field have challenged.
 
 [source](https://en.wikipedia.org/wiki/History_of_marketing): Wikipedia
+
+`image wc:Sunflower_sky_backdrop.jpg`
